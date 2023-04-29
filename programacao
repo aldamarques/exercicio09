@@ -10,13 +10,18 @@
         }
     </style>
 
-    <style>
+        <style>
         body {
-            background-image: url(Imagem/imagemdefundo.jpg); background-reap: no-reapt;
+            background-image: url(Imagem/imagemdefundo.jpg); background-repeat: no-repeat;
             height: 100%;
             width: 100%;
             background-size: 100%;
+
         }
+        mark {
+            background-color: rgb(2,245,2);
+        }
+        
         </style>
 </head>
 
