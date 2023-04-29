@@ -12,7 +12,10 @@
 
     <style>
         body {
-            background-image: url(Imagem/imagemdefundo.jpg);
+            background-image: url(Imagem/imagemdefundo.jpg); background-reap: no-reapt;
+            height: 100%;
+            width: 100%;
+            background-size: 100%;
         }
         </style>
 </head>
